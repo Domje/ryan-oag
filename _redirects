@@ -1,6 +1,0 @@
-# Cloudflare Pages Redirects
-# Clean URLs - redirect /page to /page.html
-/*    /:splat.html    200
-
-# Handle trailing slashes
-/*/   /:splat          301
