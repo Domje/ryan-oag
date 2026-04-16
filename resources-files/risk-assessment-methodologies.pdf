@@ -1,0 +1,283 @@
+This is the cover page of a PDF document titled "RISK ASSESSMENT METHOLOGIES". It includes the presenter's name, organization, and publication details.
+
+- Text: PRESENTED BY RYAN HAUGHΤΟΝ
+Operational Assurance Group
+Safe Systems of Work & Industrial Risk Control Specialists
+Revision 2.0
+April 14/04/2026
+RISK ASSESSMENT
+METHOLOGIES
+A PRACTICAL GUIDE TO QUALITATIVE AND QUANTITATIVE
+RISK ASSESSMENT WITHIN INDUSTRIAL OPERATIONS.
+- Images: The image includes the logo for "OPERATIONAL ASSURANCE GROUP", which consists of the letters "CA" enclosed within a shield shape, with the company name written beneath. Below the company name, it states "SPECIALISTS IN SAFE SYSTEMS OF WORK & INDUSTRIAL RISK CONTROL". There is also a gradient blue background.
+
+
+Okay, I will extract the text from the second page of the provided PDF and format it as requested.
+- Context: This is the second page of the Risk Assessment Methodologies PDF, detailing the scope, qualitative and quantitative risk assessment principles.
+- Text: 4. Introduction
+This document focuses on the application of qualitative and quantitative risk assessment
+methodologies in industrial environments. The application of risk assessment is central to
+the identification of potential hazards and the assessment of the potential consequences
+and likelihoods. Qualitative and quantitative risk assessments are important risk
+assessment techniques which are used to support the identification of hazards and risks
+and provide a mechanism to determine the level of risk. This will then allow for
+appropriate mitigation measures to be implemented to minimise or eliminate risk.
+5. Qualitative Risk Assessment
+5.1 Principles of Qualitative Risk Assessment
+Qualitative risk assessment is the process of subjectively determining the probability of
+occurrence and the severity of the consequences of a potential event to determine its risk
+level. It is an effective way to identify and evaluate risks that are difficult to measure
+quantitatively. Qualitative risk assessment can be used as a standalone assessment
+technique, or it can be used in conjunction with quantitative risk assessment.
+Qualitative risk assessment relies heavily on the knowledge and experience of the
+assessment team to identify hazards and assess risks.
+Qualitative risk assessment should consider a range of factors, including:
+0
+The nature of the activity or process being assessed
+•
+0
+The potential hazards associated with the activity or process
+The potential consequences of the hazards
+The likelihood of the consequences occurring
+The existing control measures in place
+The effectiveness of the existing control measures
+The vulnerability of the system or process to the hazards
+The potential impact of the hazards on people, the environment, and assets
+6. Quantitative Risk Assessment
+6.1 Principles of Quantitative Risk Assessment
+Quantitative risk assessment is the process of objectively determining the probability of
+occurrence and the severity of the consequences of a potential event to determine its risk
+level. It uses numerical data and statistical analysis to estimate the probability and
+severity of the consequences.
+- Images: There are no images on this page.
+
+
+Here's the OCR output for the requested page, following the given format:
+
+- Context: This page is focused on risk assesment. The text gives general information about risk assesment and how it should be performed.
+- Text: 
+7. Risk Assessment Methodologies
+Risk assessment methodologies define the way your organisation completes risk assessments. The
+methodologies adopted must:
+•
+•
+•
+Meet all regulatory requirements
+Be practical and scalable for the risk environments involved
+Be appropriate for the skill and experience of those completing the risk assessments
+Organisations have the following options when it comes to risk assessment methodologies.
+i.
+Selecting an existing and appropriate assessment methodology
+ii.
+Adopting components from multiple methodologies to create a bespoke solution
+iii.
+Creating a bespoke methodology
+It is critical to understand that selecting or creating a risk assessment methodology is only one part of the
+solution. Organisations must also provide the necessary training, support and tools.
+- Images: No images found on this page.
+
+
+- Context: The page discusses Qualitative and Quantitative Risk Assessment methodologies, outlining their overviews, key features, advantages, and limitations.
+- Text: 7. Qualitative Risk Assessment
+7.1 Overview
+Qualitative risk assessment evaluates risk based on descriptive categories such as
+likelihood and severity. It is widely used due to its simplicity and practicality.
+7.2 Key Features
+0
+Uses risk matrices (e.g., low / medium / high)
+Based on professional judgement and experience
+Suitable for most operational activities
+7.3 Advantages
+0
+Easy to understand and apply
+•
+Quick to implement
+Effective for dynamic environments
+7.4 Limitations
+Subjective in nature
+0
+May lack precision for complex or high-hazard scenarios
+8. Quantitative Risk Assessment
+8.1 Overview
+Quantitative risk assessment (QRA) uses numerical data to evaluate risk, often involving
+statistical analysis and modelling.
+8.2 Key Features
+0
+Uses numerical probabilities and consequences
+Often applied in high-hazard industries
+Supports detailed risk modelling
+8.3 Advantages
+•
+Provides measurable and comparable results
+0
+Supports high-level decision making
+0
+Useful for major hazard and COMAH sites
+- Images: No images are present on this page.
+
+- Context: This page provides information on risk assessment methodologies, including limitations, selecting the appropriate methodology, and a risk matrix with scoring guidance.
+- Text: 8.4 Limitations
+Ο
+Requires specialist expertise
+0
+More time and resource intensive
+0
+Dependent on quality of data
+
+9. Selecting the Appropriate Methodology
+The choice between qualitative and quantitative approaches should be based on:
+0
+0
+•
+Complexity of the task
+Level of risk
+Regulatory requirements
+Availability of data
+Operational constraints
+In many cases, a blended approach provides the most effective outcome.
+
+9A. Risk Matrix (5x5) and Scoring Guidance
+A 5x5 risk matrix is a widely used tool to support qualitative risk assessment by
+assigning numerical values to likelihood and severity.
+Likelihood Scale
+1 - Rare (Highly unlikely to occur) 2 – Unlikely (Could occur, but not expected) 3 –
+Possible (Might occur at some time) 4 – Likely (Will probably occur in most
+circumstances) 5 – Almost Certain (Expected to occur frequently)
+Severity Scale
+1-Insignificant (No injury or negligible impact) 2 – Minor (First aid treatment required) 3
+Moderate (Medical treatment / lost time injury) 4 – Major (Serious injury or long-term
+health effects) 5 – Catastrophic (Fatality or multiple serious injuries)
+Risk Scoring Method
+Risk Rating = Likelihood × Severity
+This produces a score between 1 and 25.
+Example Risk Matrix
+- Images: No images found in the provided document excerpt.
+
+
+- Context: This page provides a risk assessment matrix, interpretation, and control hierarchy. It includes instructions on managing risks, applying judgement, and prioritizing control levels.
+- Text: Severity \ Likelihood 12 3 4 5
+5 (Catastrophic)
+4 (Major)
+5 10 15 20 25
+48 12 16 20
+3 (Moderate)
+36 9 12 15
+2 (Minor)
+24 6 8 10
+12 3 4 5
+1 (Insignificant)
+Risk Rating Interpretation
+0
+1-5: Low Risk (Manage with routine controls)
+0
+6-10: Medium Risk (Implement additional controls where practicable)
+•
+12-15: High Risk (Action required to reduce risk)
+•
+16-25: Very High Risk (Work must not proceed until risk is reduced)
+Key Principles for Use
+0
+Apply consistent judgement when assigning scores
+0
+•
+Consider existing control measures before scoring residual risk
+Use the matrix as a decision-support tool—not a substitute for professional
+judgement
+Ensure alignment with site-specific risk criteria where applicable
+10. Hierarchy of Control
+The hierarchy of control provides a structured approach to reducing risk:
+1. Elimination
+2. Substitution
+3. Engineering Controls
+4. Administrative Controls
+5. Personal Protective Equipment (PPE)
+Effective risk management prioritises higher-level controls wherever reasonably
+practicable.
+- Images: There are no images on this page.
+
+- Context: This page outlines the structured approach to risk assessment, regulatory framework, and alignment with Health and Safety Executive (HSE) guidelines. It covers key steps and regulations relevant to risk assessment methodologies.
+- Text: 11. Our Structured Approach
+11.1 Discovery & Scoping
+Define scope, hazards, and risk profile
+11.2 Site Familiarisation
+Understand real-world conditions and constraints
+11.3 Assessment & Gap Analysis
+Evaluate existing controls and identify improvements
+11.4 Methodology Selection
+Determine appropriate qualitative, quantitative, or blended approach
+11.5 Documentation Development
+Produce clear, structured, and compliant outputs
+11.6 Implementation Support
+Ensure findings are understood and applied
+11.7 Review & Approval
+Validate effectiveness and alignment with requirements
+
+12. UK Regulatory Framework and HSE Alignment
+Risk assessment methodologies must align with UK legislation and HSE guidance:
+Health and Safety at Work etc. Act 1974 (HSWA)
+•
+Duty to ensure health, safety, and welfare of employees and others
+Management of Health and Safety at Work Regulations 1999 (MHSWR)
+•
+Requires suitable and sufficient risk assessments
+Mandates implementation of control measures
+Control of Substances Hazardous to Health Regulations 2002 (COSHH)
+Requires assessment and control of hazardous substances
+Dangerous Substances and Explosive Atmospheres Regulations 2002 (DSEAR)
+•
+Requires assessment of fire and explosion risks
+Construction (Design and Management) Regulations 2015 (CDM)
+- Images: No images are present on this page.
+
+- Context: This page covers common challenges in risk assessments, the importance of continuous improvement, and what sets Operational Assurance Group apart.
+- Text: Requires risk management throughout project lifecycle
+COMAH Regulations 2015
+• Applies to major hazard sites
+• Requires detailed quantitative risk assessment where applicable
+
+HSE Guidance
+• HSG65: Managing for Health and Safety
+• INDG163: Risk Assessment Guidance
+• HSG176: Storage of Flammable Liquids
+• Sector-specific guidance for construction and process industries
+
+13. Common Challenges
+• Over-reliance on generic assessments
+• Lack of workforce involvement
+• Inappropriate methodology selection
+• Failure to apply hierarchy of control effectively
+• Poor communication of findings
+
+14. Continuous Improvement
+Effective risk assessment requires ongoing review:
+• Incident and near-miss learning
+• Operational feedback
+• Audit findings
+• Changes in legislation or processes
+
+15. What Sets Operational Assurance Group Apart
+Industry-Specific Expertise
+Deep experience across high-risk sectors
+- Images: No images on this page.
+
+- Context: This page contains the conclusion and contact information for Operational Assurance Group.
+- Text: Practical Application
+Solutions designed for real-world use
+Audit-Ready Outputs
+Structured and compliant documentation
+Scalable Support
+Flexible delivery aligned to client needs
+16. Conclusion
+Understanding and applying appropriate risk assessment methodologies is critical to
+effective risk control.
+By combining practical experience with structured approaches, organisations can
+deliver risk assessments that are both compliant and operationally effective.
+Operational Assurance Group provides the expertise required to achieve this balance.
+17. Contact
+Operational Assurance Group Specialist Consultancy in Safe Systems of Work &
+Industrial Risk Control
+For further information or support, please get in touch.
+Website Contact: www.operationalassurancegroup.com
+Email Contact: info@operationalassurancegroup.com
+Telephone Contact: 07734 370849
+- Images: None

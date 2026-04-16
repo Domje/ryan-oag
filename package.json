@@ -1,0 +1,14 @@
+{
+  "name": "ryan-oag",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Operational Assurance Group - Static marketing site",
+  "scripts": {
+    "dev": "serve . -l 3000 --no-clipboard",
+    "start": "serve . -l 3000 --no-clipboard",
+    "build": "echo 'Static site - no build step required'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

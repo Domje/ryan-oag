@@ -150,7 +150,7 @@ p {
 .navbar-menu {
   display: flex;
   align-items: center;
-  gap: 30px;
+  gap: clamp(14px, 2vw, 30px);
 }
 
 .navbar-menu a {
@@ -221,9 +221,12 @@ p {
 .nav-cta {
   background: var(--primary-blue);
   color: var(--white);
-  padding: 10px 24px;
+  padding: clamp(6px, 0.9vw, 10px) clamp(12px, 1.8vw, 24px);
   border-radius: 4px;
   font-weight: 600;
+  font-size: clamp(0.75rem, 1vw, 1rem);
+  white-space: nowrap;
+  line-height: 1.2;
 }
 
 .nav-cta:hover {
