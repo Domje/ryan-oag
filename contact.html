@@ -75,15 +75,9 @@
           <h2>Send Us a Message</h2>
           <p>Complete the form below and a member of our team will be in touch within one working day.</p>
           
-          <form id="contact-form" action="https://api.web3forms.com/submit" method="POST" style="margin-top: 30px;">
-            <!-- Web3Forms hidden fields -->
-            <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY">
-            <input type="hidden" name="subject" value="WEB FORM FILL">
-            <input type="hidden" name="to" value="info@operationalassurancegroup.com">
-            <input type="hidden" name="from_name" value="OAG Website Contact Form">
-            <input type="hidden" name="redirect" value="false">
-            <!-- Honeypot spam protection -->
-            <input type="checkbox" name="botcheck" style="display:none">
+          <form id="contact-form" action="https://formspree.io/f/xnjwzzpe" method="POST" style="margin-top: 30px;">
+            <input type="hidden" name="_subject" value="WEB FORM FILL">
+            <input type="text" name="_gotcha" style="display:none">
 
             <div class="form-group">
               <label for="name">Full Name *</label>
@@ -313,12 +307,13 @@
         successEl.style.display = 'none';
         errorEl.style.display = 'none';
         try {
-          const res = await fetch('https://api.web3forms.com/submit', {
+          const res = await fetch('https://formspree.io/f/xnjwzzpe', {
             method: 'POST',
+            headers: { 'Accept': 'application/json' },
             body: new FormData(form)
           });
           const data = await res.json();
-          if (data.success) {
+          if (res.ok) {
             successEl.style.display = 'block';
             form.reset();
           } else {
