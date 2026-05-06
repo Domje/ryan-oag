@@ -1,0 +1,329 @@
+
+
+ 
+PRESENTED BY RYAN HAUGHTON 
+Operational Assurance Group 
+Safe Systems of Work & Industrial Risk Control Specialists  
+ 
+Revision 2.0 
+16/04/2026 
+PERMIT TO WORK – (PTW) 
+DESIGN & IMPLEMENTATION 
+FRAMEWORK 
+A P R A C T I C A L  G U I D E   FO R  S A F E ,   C O N T R O L L ED   W O R K   W IT H I N 
+U K   I N D U S T R I A L   O P E RAT I O N S.  
+
+ 
+Permit to Work (PTW) Design & Implementation 
+A Practical Guide for Safe, Controlled Work in UK Industrial Operations 
+ 
+1. Executive Summary 
+Permit to Work (PTW) systems are a critical component of risk control in high-hazard industries. 
+When designed and implemented effectively, they provide a structured framework for 
+controlling hazardous work. When poorly applied, they become administrative burdens that 
+create false assurance and increased risk. 
+This white paper provides a practical, operationally grounded approach to PTW design and 
+implementation, aligned with the mission of Operational Assurance Group: 
+“To protect people and businesses by delivering practical, audit-ready safe systems of work and 
+risk control solutions that enable confident operational delivery.” 
+The focus is clear: 
+• Use PTW where it adds control—not bureaucracy 
+• Ensure systems are understood, applied, and verified in practice 
+• Design processes that are robust, scalable, and audit-ready 
+ 
+2. What is a Permit to Work System? 
+A PTW system is a formal, controlled process used to: 
+• Authorise high-risk work 
+• Ensure hazards are identified and controlled 
+• Coordinate activities across teams and interfaces 
+• Provide traceability and accountability 
+Guidance is primarily provided by: 
+• Health and Safety Executive (HSE) 
+• HSG250 – Guidance on Permit-to-Work Systems 
+• Health and Safety at Work etc. Act 1974 
+
+• Management of Health and Safety at Work Regulations 1999 
+ 
+ 
+ 
+3. When is a PTW Actually Required? (Avoiding Overuse) 
+3.1 Appropriate Use of PTW 
+A PTW should be used where: 
+• Work is non-routine 
+• Hazards are high consequence 
+• Multiple controls or isolations are required 
+• There are interfaces between teams or systems 
+• There is potential for serious harm if controls fail 
+
+ 
+ 
+Typical examples: 
+• Hot work in hazardous areas 
+• Confined space entry 
+• Electrical isolation and maintenance 
+• Breaking containment on live systems 
+ 
+3.2 When a PTW is NOT Required 
+Overuse of PTW systems creates: 
+• Administrative burden 
+• Reduced attention to critical risks 
+• “Tick-box” behaviour 
+PTW is generally not required where: 
+• Work is routine and well-controlled 
+• Risks are low and stable 
+• Standard operating procedures (SOPs) are sufficient 
+• No significant interaction with other activities 
+ 
+3.3 Principle: Control vs Complexity 
+If a permit does not add meaningful control, it should not exist. 
+This aligns with your principle of Compliance Without Complication. 
+ 
+4. Core Permit Types 
+A well-designed PTW system includes clearly defined permit categories: 
+4.1 General Permit 
+• Covers medium-risk, non-routine work 
+
+• Acts as a baseline control framework 
+ 
+4.2 Hot Work Permit 
+• Activities involving ignition sources: 
+o Welding 
+o Grinding 
+o Cutting 
+Controls include: 
+• Fire watch 
+• Gas testing 
+• Removal of combustibles 
+ 
+4.3 Confined Space Permit 
+• Entry into enclosed environments with: 
+o Limited access/egress 
+o Potential hazardous atmospheres 
+Aligned with: 
+• Confined Spaces Regulations 1997 
+ 
+4.4 Electrical Permit 
+• Work on or near electrical systems 
+Aligned with: 
+• Electricity at Work Regulations 1989 
+ 
+4.5 Breaking Containment Permit 
+• Opening systems containing: 
+o Chemicals 
+
+o Gases 
+o Pressurised substances 
+Critical in chemical and petrochemical sectors. 
+ 
+4.6 Additional Specialist Permits (as required) 
+• Working at height 
+• Excavation 
+• Lifting operations 
+ 
+5. Interface with SIMOPS and Isolations 
+5.1 SIMOPS (Simultaneous Operations) 
+PTW systems must manage: 
+• Conflicting activities 
+• Shared risk environments 
+• Cross-team dependencies 
+Effective control includes: 
+• Central coordination 
+• Visibility of all active permits 
+• Defined area authority oversight 
+ 
+5.2 Isolation Management 
+PTW must integrate with: 
+• Mechanical isolations 
+• Electrical isolations 
+• Process isolations 
+Key principles: 
+• Isolation is verified before permit issue 
+
+• Isolation status is traceable and documented 
+• Reinstatement is controlled and authorised 
+ 
+5.3 Critical Insight 
+A PTW does not control risk on its own—controls such as isolations do. 
+The permit ensures those controls are: 
+• Identified 
+• Implemented 
+• Verified 
+ 
+6. Roles and Responsibilities 
+Clarity in roles is essential to prevent failure. 
+6.1 Permit Issuer 
+• Typically a supervisor or authorised person 
+• Responsibilities: 
+o Verify controls are in place 
+o Ensure risk assessment is suitable 
+o Confirm work conditions are safe 
+ 
+6.2 Permit Acceptor (Performer) 
+• Person or team carrying out the work 
+• Responsibilities: 
+o Understand the permit and controls 
+o Follow specified conditions 
+o Stop work if conditions change 
+ 
+
+ 
+6.3 Area Authority 
+• Responsible for the operational area 
+Responsibilities: 
+• Authorise work within their area 
+• Ensure coordination with other activities 
+• Maintain oversight of SIMOPS 
+ 
+6.4 Supporting Roles 
+• Isolation authority 
+• Gas tester 
+• Safety advisor 
+ 
+6.5 Principle 
+Accountability must be clear, visible, and understood—not assumed. 
+ 
+7. Controlled PTW Systems: Why They Matter 
+A controlled PTW system ensures: 
+• Standardisation 
+• Traceability 
+• Accountability 
+• Auditability 
+ 
+7.1 Characteristics of Controlled Systems 
+• Unique permit numbering 
+• Defined approval hierarchy 
+• Formal issue, acceptance, and closure process 
+
+• Central register of active permits 
+• Clear validity periods 
+ 
+7.2 Paper vs Digital Systems 
+Paper Systems 
+• Simple, accessible 
+• Risk of loss, duplication, poor visibility 
+Digital Systems 
+• Real-time tracking 
+• Improved SIMOPS management 
+• Audit trail and data insights 
+ 
+7.3 Alignment with Your Principles 
+• Audit-Ready by Design → Traceable and structured systems 
+• Built for the Real World → Usable under operational pressures 
+• Clear Communication → Easy to understand and apply 
+ 
+8. Common Failure Points in PTW Systems 
+8.1 Over-Permitting 
+• Too many permits dilute focus 
+• Leads to complacency 
+ 
+8.2 Poor Risk Assessment 
+• Generic or copied content 
+• Failure to identify site-specific hazards 
+ 
+
+ 
+8.3 Lack of Verification 
+• Controls assumed, not checked 
+• “Sign and go” culture 
+ 
+8.4 Weak Role Clarity 
+• Issuers not competent 
+• Acceptors not engaged 
+• Area authority not actively coordinating 
+ 
+8.5 Breakdown in SIMOPS Control 
+• Conflicting work activities 
+• Lack of central visibility 
+ 
+8.6 Isolation Failures 
+• Incorrect or incomplete isolations 
+• No physical verification 
+• Poor handover between teams 
+ 
+8.7 Paper Compliance 
+• Permits completed retrospectively 
+• Signatures without understanding 
+• Perfect paperwork, poor site conditions 
+ 
+8.8 Poor Close-Out 
+• Permits left open 
+• No confirmation of safe reinstatement 
+
+ 
+9. Designing an Effective PTW System (Operational Assurance Group Approach) 
+1. Discovery & Scoping 
+• Identify risk profile and operational needs 
+• Define when PTW is required 
+ 
+2. Site Familiarisation 
+• Understand workflows, constraints, and hazards 
+• Engage with frontline teams 
+ 
+3. Assessment & Gap Analysis 
+• Review existing PTW systems 
+• Identify: 
+o Overuse 
+o Gaps in control 
+o Complexity issues 
+ 
+4. System Design & Documentation 
+• Develop: 
+o Clear permit categories 
+o Simple, structured templates 
+o Defined roles and workflows 
+ 
+5. Implementation Support 
+• Training and briefings 
+• Supervisor engagement 
+• Real-world testing 
+
+ 
+6. Review & Continuous Improvement 
+• Audit effectiveness 
+• Capture lessons learned 
+• Refine system over time 
+ 
+10. Integration with SSoW and Risk Management 
+PTW systems should not operate in isolation. 
+They must align with: 
+• Risk assessments 
+• Method statements (SSoW) 
+• Isolation procedures 
+• Emergency arrangements 
+ 
+Key Principle 
+The permit is the control framework—not the control itself. 
+ 
+11. Delivering Practical, Audit-Ready PTW Systems 
+An effective PTW system is: 
+• Targeted – Used only where necessary 
+• Clear – Easily understood by all roles 
+• Controlled – Structured and traceable 
+• Integrated – Linked to isolations and SSoW 
+• Verified – Applied in practice, not just on paper 
+ 
+
+ 
+ 
+12. Conclusion 
+Permit to Work systems are most effective when they are: 
+• Focused on real risk 
+• Simple to apply 
+• Actively managed on site 
+Organisations that succeed: 
+• Avoid over-complication 
+• Prioritise verification over documentation 
+• Treat PTW as a live control system, not a form 
+ 
+13. Final Thought 
+A permit alone, DOES NOT make work safe—people applying the right controls DOES. 
+ 
+14. Contact Us 
+Operational Assurance Group Specialist Consultancy in Safe Systems of Work & Industrial Risk 
+Control 
+For further information or support, please get in touch. 
+ 
+Website Contact: www.operationalassurancegroup.com 
+Email Contact: info@operationalassurancegroup.com 
+Telephone Contact: 07734 370849 
+ 
