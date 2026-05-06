@@ -1,4 +1,4 @@
 {
   "outputDirectory": ".",
-  "buildCommand": "echo 'Static site - no build step required'"
+  "buildCommand": "echo 'Static site - no build needed'"
 }
