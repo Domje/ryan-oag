@@ -75,8 +75,16 @@
           <h2>Send Us a Message</h2>
           <p>Complete the form below and a member of our team will be in touch within one working day.</p>
           
-          <!-- [Replace YOUR_FORM_ID with actual Formspree form ID before launch] -->
-          <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST" style="margin-top: 30px;">
+          <form id="contact-form" action="https://api.web3forms.com/submit" method="POST" style="margin-top: 30px;">
+            <!-- Web3Forms hidden fields -->
+            <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY">
+            <input type="hidden" name="subject" value="WEB FORM FILL">
+            <input type="hidden" name="to" value="info@operationalassurancegroup.com">
+            <input type="hidden" name="from_name" value="OAG Website Contact Form">
+            <input type="hidden" name="redirect" value="false">
+            <!-- Honeypot spam protection -->
+            <input type="checkbox" name="botcheck" style="display:none">
+
             <div class="form-group">
               <label for="name">Full Name *</label>
               <input type="text" id="name" name="name" required>
@@ -101,13 +109,14 @@
               <label for="service">Service of Interest</label>
               <select id="service" name="service">
                 <option value="">Select a service</option>
-                <option value="legal">Legal and Management</option>
-                <option value="general-safety">General Safety</option>
-                <option value="health-welfare">Health and Welfare</option>
-                <option value="high-risk">High Risk Activities</option>
-                <option value="environmental">Environmental</option>
-                <option value="specialist">Specialist Activities</option>
-                <option value="other">Other / General Enquiry</option>
+                <option value="Safe Systems of Work">Safe Systems of Work</option>
+                <option value="Health, Safety & Compliance">Health, Safety &amp; Compliance</option>
+                <option value="Occupational Health & Welfare">Occupational Health &amp; Welfare</option>
+                <option value="High Risk & Specialist Activities">High Risk &amp; Specialist Activities</option>
+                <option value="Environmental & Sustainability">Environmental &amp; Sustainability</option>
+                <option value="Operational Excellence & Reliability">Operational Excellence &amp; Reliability</option>
+                <option value="Commercial & Contract Support">Commercial &amp; Contract Support</option>
+                <option value="Other / General Enquiry">Other / General Enquiry</option>
               </select>
             </div>
             
@@ -116,7 +125,14 @@
               <textarea id="message" name="message" rows="6" required></textarea>
             </div>
             
-            <button type="submit" class="btn btn-primary">Send Message</button>
+            <button type="submit" class="btn btn-primary" id="submit-btn">Send Message</button>
+
+            <div id="form-success" style="display:none; margin-top: 20px; padding: 16px 20px; background: #e8f5e9; border: 1px solid #4caf50; border-radius: 6px; color: #2e7d32;">
+              Thank you — your message has been sent. We will be in touch within one working day.
+            </div>
+            <div id="form-error" style="display:none; margin-top: 20px; padding: 16px 20px; background: #fdecea; border: 1px solid #f44336; border-radius: 6px; color: #c62828;">
+              Something went wrong. Please try again or email us directly at <a href="mailto:info@operationalassurancegroup.com" style="color: #c62828;">info@operationalassurancegroup.com</a>.
+            </div>
             
             <p class="form-note">* Required fields. We respect your privacy and will never share your details.</p>
           </form>
@@ -284,5 +300,37 @@
 
   <!-- JavaScript -->
   <script src="main.js"></script>
+  <script>
+    const form = document.getElementById('contact-form');
+    if (form) {
+      form.addEventListener('submit', async function (e) {
+        e.preventDefault();
+        const btn = document.getElementById('submit-btn');
+        const successEl = document.getElementById('form-success');
+        const errorEl = document.getElementById('form-error');
+        btn.disabled = true;
+        btn.textContent = 'Sending...';
+        successEl.style.display = 'none';
+        errorEl.style.display = 'none';
+        try {
+          const res = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            body: new FormData(form)
+          });
+          const data = await res.json();
+          if (data.success) {
+            successEl.style.display = 'block';
+            form.reset();
+          } else {
+            errorEl.style.display = 'block';
+          }
+        } catch (err) {
+          errorEl.style.display = 'block';
+        }
+        btn.disabled = false;
+        btn.textContent = 'Send Message';
+      });
+    }
+  </script>
 </body>
 </html>
