@@ -160,3 +160,24 @@ const yearElement = document.getElementById('current-year');
 if (yearElement) {
   yearElement.textContent = new Date().getFullYear();
 }
+
+// ===========================
+// Services Categories Collapse/Expand
+// ===========================
+const serviceHeaders = document.querySelectorAll('.service-header');
+serviceHeaders.forEach(header => {
+  header.addEventListener('click', () => {
+    const category = header.parentElement;
+    const isOpen = category.classList.contains('open');
+    
+    // Close all other categories
+    document.querySelectorAll('.service-category').forEach(cat => {
+      cat.classList.remove('open');
+    });
+    
+    // Toggle current category
+    if (!isOpen) {
+      category.classList.add('open');
+    }
+  });
+});

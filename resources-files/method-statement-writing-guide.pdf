@@ -1,6 +1,6 @@
-This is the title page of a method statement writing guide. It includes the title, the name of the presenter, the date, and the logo of the Operational Assurance Group.
+This is the cover page of a document titled "METHOD STATEMENT WRITING GUIDE" presented by Ryan Haughton of Operational Assurance Group. It provides revision details and includes the organization's logo.
 
-Text: PRESENTED BY RYAN HAUGHTON
+- Text: PRESENTED BY RYAN HAUGHTON
 Operational Assurance Group
 Safe Systems of Work & Industrial Risk Control Specialists
 
@@ -11,71 +11,62 @@ METHOD STATEMENT
 WRITING GUIDE
 A PRACTICAL GUIDE TO DEVELOPING CLEAR, COMPLIANT AND
 USABLE METHOD STATEMENTS.
+- Images: The document features a background with a gradient of blues and purples, suggesting depth. There is a logo for "OPERATIONAL ASSURANCE GROUP," which contains the letters "CA" inside of a shield graphic with a checkmark. The words "OPERATIONAL ASSURANCE GROUP" appear below the shield, along with the text "SPECIALISTS IN SAFE SYSTEMS OF WORK & INDUSTRIAL RISK CONTROL."
 
-CA
-OPERATIONAL
-ASSURANCE GROUP
-SPECIALISTS IN SAFE SYSTEMS OF WORK
-& INDUSTRIAL RISK CONTROL
-Images: The image contains the Operational Assurance Group logo in the bottom right corner. The logo features a shield with the letters "CA" on it, above the words "OPERATIONAL ASSURANCE GROUP" and the tagline "SPECIALISTS IN SAFE SYSTEMS OF WORK & INDUSTRIAL RISK CONTROL". The top portion of the image is a gradient of blue.
+- Context: This is page 2 of the document. It continues providing guidance on writing method statements and includes sections on document control, and development.
+- Text: 5. Document Control
+The purpose of this section is to set out the document control for this guidance.
+Issue
+Issue Date
+Reason for Change
+Prepared by
+Approved by
+01
+01/01/2022
+First Issue
+OA Group
+D Miller
+6. How to Develop a Method Statement
+Method statements outline how a specific task is to be completed safely, the hazards
+involved, and the control measures in place to eliminate or reduce risk.
+Follow these 7 steps to prepare a method statement:
+1. Identify the Task:
+Understand the task fully and define the scope, this may involve breaking down the
+task into smaller more manageable elements.
+2. Hazard Identification:
+Once the task is defined, identify all potential hazards associated with each step
+involved. Conduct a thorough risk assessment to understand the severity and
+likelihood of each hazard.
+3. Risk Assessment:
+Assess the risks associated with each identified hazard, considering factors such as
+the likelihood of occurrence and potential severity of consequences. This evaluation
+helps prioritise risks and focus on the most critical areas.
+4. Control Measures:
+Outline specific control measures to mitigate the identified risks. Control measures
+should align with the hierarchy of controls, prioritising elimination or substitution
+where feasible, followed by engineering controls, administrative controls, and lastly,
+personal protective equipment (PPE).
+5. Safe Work Procedures:
+Detail the step-by-step procedures for completing the task safely, incorporating the
+identified control measures. Ensure clarity and conciseness in the instructions, using
+simple language and visual aids where appropriate.
+6. Communication and Training:
+Communicate the method statement to all relevant personnel involved in the task,
+providing adequate training and instruction on the safe work procedures and control
+measures. Ensure everyone understands their roles and responsibilities.
+7. Review and Approval:
+Before implementation, review the method statement for accuracy, completeness,
+and compliance with relevant regulations and standards. Seek approval from
+competent personnel or stakeholders to ensure its validity and effectiveness.
 
-- Context: This page discusses the definition of a method statement, what it should include, and how to approach it.
-- Text: 5. What is a Method Statement?
-A method statement, also known as a safe work method statement (SWMS), is a document
-that outlines the specific steps and procedures required to safely perform a particular task
-or activity. It serves as a guide for workers, supervisors, and managers to ensure that
-the task is carried out in a manner that minimises risks and prevents accidents or injuries.
-A method statement is not a risk assessment.
-
-5.  1 What should it include?
-While the format and content may vary depending on the specific requirements and
-industry practices, some common elements that are included are:
-0
-Description of the task: A clear and concise explanation of the work to be performed.
-0
-Hazard identification: Identification of potential hazards and risks associated with the
-task.
-0
-Risk assessment: Assessment of the likelihood and severity of the identified risks.
-0
-Control measures: Detailed description of the control measures to be implemented to
-mitigate the identified risks. This may include engineering controls, administrative
-controls, and personal protective equipment (PPE).
-0
-Step-by-step procedure: A detailed breakdown of the task into sequential steps,
-outlining the actions, tools, equipment, and materials required for each step.
-0
-Responsibilities: Clear assignment of responsibilities to individuals or teams
-involved in the task.
-0
-Emergency procedures: Guidelines for responding to emergencies, such as accidents,
-fires, or spills.
-0
-Training and competence: Specification of the necessary training, qualifications, and
-competencies required for personnel performing the task.
-
-5.  2 How to approach it
-There are several approaches available when it comes to creating a method statement,
-choose an approach that provides a clear and concise breakdown of the steps involved
-in performing the work. This may include:
-0
-Sequential: This approach provides a step-by-step breakdown of the task, in the order
-in which it will be performed. It is suitable for tasks with a clear sequence of actions.
-0
-Hazard-based: This approach focuses on identifying potential hazards and risks
-associated with each step of the task. It is suitable for tasks where hazards are the
-primary concern.
-0
-Location-based: This approach focuses on the different locations where the task will
-be performed. It is suitable for tasks that are performed in multiple locations, each
-with its own unique hazards and risks.
 - Images: None
 
 
-Here is the OCR output for the page you requested.
+Okay, here's the OCR output for the provided image, following the requested format:
 
-- Context: This page lists core principles of method statements, defines what a method statement is, and lists the key objectives of a method statement.
-- Text: 5. Core Principles
+- Context: The image contains information regarding core principles, a definition of a method statement, and the key objectives of a method statement.
+- Text: 
+5. Core Principles
 Safety as Standard
 All method statements must prioritise the protection of people.
 Built for the Real World
@@ -101,10 +92,10 @@ Establish a safe sequence of work
 Identify hazards and controls
 Communicate expectations to the workforce
 Support supervision and compliance
-- Images: No images on this page.
+- Images: There are no images on this page.
 
 
-- Context: This page contains the method statement development with steps.
+- Context: The page provides guidelines on how to develop a method statement, breaking it down into seven steps.
 - Text: 8. Step-by-Step Method Statement Development
 Step 1: Define the Scope of Work
 0
@@ -146,9 +137,9 @@ Fire procedures
 Spill response
 •
 First aid arrangements
-- Images: No images are present on the page.
+- Images: No images are present on this page.
 
-- Context: This page discusses steps to review and validate, communicate and implement, and structure an effective method statement. It also covers writing best practices for method statements.
+- Context: This page discusses steps to review and validate a method statement, how to communicate and implement it, the structure of an effective method statement, and writing best practices.
 - Text: Step 8: Review and Validate
 0
 •	Ensure alignment with site operations
@@ -178,48 +169,53 @@ A well-structured method statement should include:
 Write in logical sequence
 Be specific (avoid generic statements)
 Focus on how the work is actually done
-- Images: There are no images on this page.
+- Images: None
 
-Here is the OCR for page 6 of the METHOD STATEMENT PDF.pdf.
 
-- Context: This page outlines the UK Regulatory Framework and HSE Alignment, including various acts and regulations related to health and safety at work. It also covers common challenges in health and safety management.
-- Text: Ensure consistency with risk assessments
+Here is the OCR output for page 6 of the METHOD STATEMENT PDF.pdf.
+
+- Context: This page details the UK Regulatory Framework and HSE Alignment, HSE Guidance, and common challenges.
+- Text: • Ensure consistency with risk assessments
 
 11. UK Regulatory Framework and HSE Alignment
 Health and Safety at Work etc. Act 1974 (HSWA)
-•	Duty to ensure safe systems of work
+• Duty to ensure safe systems of work
+
 Management of Health and Safety at Work Regulations 1999 (MHSWR)
-•	Requires risk assessment and safe working arrangements
+• Requires risk assessment and safe working arrangements
+
 Construction (Design and Management) Regulations 2015 (CDM)
-•	Requires planning and management of construction work
-•	Method statements support Construction Phase Plans
+• Requires planning and management of construction work
+• Method statements support Construction Phase Plans
+
 Provision and Use of Work Equipment Regulations 1998 (PUWER)
-•	Safe use of equipment must be defined
+• Safe use of equipment must be defined
+
 Work at Height Regulations 2005
-•	Requires safe planning and execution of work at height
+• Requires safe planning and execution of work at height
 
 HSE Guidance
-•	HSG65: Managing for Health and Safety
-•	HSG250: Permit-to-Work Systems
-•	INDG163: Risk Assessment Guidance
+• HSG65: Managing for Health and Safety
+• HSG250: Permit-to-Work Systems
+• INDG163: Risk Assessment Guidance
 
 12. Common Challenges
-•	Overly generic or copied content
-•	Lack of alignment with site conditions
-•	Poor sequencing of work activities
-•	Insufficient detail on controls
-•	Lack of workforce engagement
-- Images: There are no images on this page.
+• Overly generic or copied content
+• Lack of alignment with site conditions
+• Poor sequencing of work activities
+• Insufficient detail on controls
+• Lack of workforce engagement
+- Images: No images found on this page.
 
-- Context: This page details key aspects of Operational Assurance Group's services, including continuous improvement, industry expertise, and contact information.
-- Text: 13. Continuous Improvement
+Context: This page contains a list of reasons to choose Operational Assurance Group, a conclusion, and contact information.
+
+Text: 13. Continuous Improvement
 0
 Review after task completion
 0
 Capture lessons learned
 Update based on incidents or feedback
 Ensure documents remain current
-
 14. What Sets Operational Assurance Group Apart
 Industry-Specific Expertise
 Experience across high-risk industrial sectors
@@ -229,21 +225,20 @@ Audit-Ready Outputs
 Structured and compliant documentation
 Scalable Support
 Flexible delivery aligned to client needs
-
 15. Conclusion
 Effective method statements are essential for safe and successful operations.
 By applying a structured, practical approach, organisations can produce
 documentation that supports both compliance and operational delivery.
 Operational Assurance Group provides the expertise required to achieve this balance.
-
 16. Contact
 Operational Assurance Group Specialist Consultancy in Safe Systems of Work &
 Industrial Risk Control
-- Images: No images are present on this page.
 
-- Context: This page contains contact information for further assistance or support.
+Images: No images on this page.
+
+- Context: This page contains contact information for Operational Assurance Group.
 - Text: For further information or support, please get in touch.
 Website Contact: www.operationalassurancegroup.com
 Email Contact: info@operationalassurancegroup.com
 Telephone Contact: 07734 370849
-- Images: There are no images on this page.
+- Images: None
