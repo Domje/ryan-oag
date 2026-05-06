@@ -1,43 +1,69 @@
-This is the first page of a COSHH Assessment Guide PDF. It includes the title of the guide, an introduction, and the Operational Assurance Group logo.
+This is the cover page of a COSHH Assessment Guide document.
 
-- Text: PRESENTED BY RYAN HAUGHTON
+Text:
+PRESENTED BY RYAN HAUGHTON
 Operational Assurance Group
 Safe Systems of Work & Industrial Risk Control Specialists
+Revision 2.0
+April 14/04/2026
 COSHH ASSESSMENT
 GUIDE
 A PRACTICAL STEP-BY-STEP APPROACH TO ASSESSING
 HAZARDOUS SUBSTANCES.
-Revision 2.0
-April 14/04/2026
-- Images: The image shows the Operational Assurance Group logo, which consists of the letters "OA" intertwined inside a circle. Below the logo is the text "OPERATIONAL ASSURANCE GROUP" and "SPECIALISTS IN SAFE SYSTEMS OF WORK & INDUSTRIAL RISK CONTROL" in smaller font.
+CA
+OPERATIONAL
+ASSURANCE GROUP
+SPECIALISTS IN SAFE SYSTEMS OF WORK
+& INDUSTRIAL RISK CONTROL
 
-Here is the OCR of the second page of the document:
+Images:
+- The page contains the logo for Operational Assurance Group, which consists of the letters "CA" overlapping with a checkmark shape, above the text "OPERATIONAL ASSURANCE GROUP" and "SPECIALISTS IN SAFE SYSTEMS OF WORK & INDUSTRIAL RISK CONTROL".
 
-- Context: This is the second page of the COSHH Assessment Guide and outlines the responsibilities, step-by-step approach, and glossary.
-- Text: 4. Responsibilities
-It is the responsibility of the manager to ensure that a suitable and sufficient COSHH
-assessment is carried out.
-5. Step-by-Step Approach
-5.1 Initial Screening
-Use information from the MSDS to complete the initial screening. Refer to Appendix 1 for
-a sample.
-5.2 Conduct the COSHH Assessment
-Refer to Appendix 2 for a sample COSHH assessment format.
-5.3 Document the Findings
-Document the findings of the COSHH assessment, including the identified hazards, risks,
-and control measures.
-5.4 Review the COSHH Assessment
-Review the COSHH assessment periodically, or when there are significant changes in the
-workplace.
-6. Glossary
-COSHH: Control of Substances Hazardous to Health.
-MSDS: Material Safety Data Sheet.
-Risk: The likelihood of harm occurring from exposure to a hazard.
-Hazard: A substance, activity, or condition that has the potential to cause harm.
-Control Measures: Actions taken to reduce the risk of exposure to a hazard.
+
+Here is the OCR output for the provided page of the PDF:
+
+- Context: This is the second page of the COSHH assessment guide PDF.
+- Text: 4. Definitions
+Hazard
+A substance or activity that could cause harm.
+Risk
+The likelihood of harm arising from a hazard.
+Hazardous
+Substances
+Substances that can cause harm to people’s health. These can be chemicals,
+products containing chemicals, fumes, dusts, vapours, mists, gases, and
+biological agents.
+COSHH
+Control of Substances Hazardous to Health.
+Safety Data
+Sheets (SDS)
+A document providing information on hazardous substances including safe use and
+potential health effects.
+Exposure Limit
+Workplace Exposure Limits (WELs) are occupational exposure limits that are set to
+help protect the health of workers. WEL is the concentration of hazardous
+substances in the air, averaged over a specified period, referred to as a time-
+weighted average (TWA). Two time periods are used:
+•
+Long Term Exposure Limit (LTEL) - 8 hours
+•
+Short Term Exposure Limit (STEL) - 15 minutes
+5. COSHH Assessment Process - Step-by-Step
+Step 1: Identify Hazardous Substances
+Identify all hazardous substances present in the workplace. This can be achieved by:
+•
+Reviewing Safety Data Sheets (SDS).
+•
+Consulting with employees and safety representatives.
+•
+Checking product labels and container markings.
+•
+Conducting a thorough workplace walk-through.
 - Images: No images found on this page.
 
-- Context: This page outlines the company's mission statement and core principles. It also introduces the definition of a COSHH assessment and the first step in the COSHH assessment process.
+Here is the OCR for the requested page:
+
+- Context: This page defines COSHH assessment, lists core principles, and provides steps for the COSHH assessment process.
 - Text: 4. Our Mission
 "To protect people and businesses by delivering practical, audit-ready safe systems of
 work and risk control solutions that enable confident operational delivery."
@@ -66,83 +92,86 @@ Dusts, fumes, vapours, and mists
 Biological agents
 7. Step-by-Step COSHH Assessment Process
 Step 1: Identify the Substance
-- Images: No images are present on this page.
+- Images: No images on this page.
 
-- Context: This page contains a COSHH assessment PDF. It outlines the steps required to conduct a COSHH assessment, including identifying hazards, assessing who might be harmed, evaluating the risk, applying the hierarchy of control, defining control measures, and recording the assessment.
+
+- Context: This page contains information about COSHH risk assessment with details on identifying hazards, risk evaluation, and control measures.
 - Text: 0
 0
 • Name of substance
 Manufacturer/supplier details
 Obtain Safety Data Sheet (SDS)
+
 Step 2: Identify Hazards
 0
 Review hazard classifications (H-statements)
 Identify routes of exposure (inhalation, skin contact, ingestion)
 0
 Consider health effects (acute and chronic)
+
 Step 3: Assess Who Might Be Harmed
 • Operators
 • Maintenance personnel
 • Contractors
 Others (e.g. nearby workers, public)
+
 Step 4: Evaluate the Risk
 Consider quantity, frequency, and duration of use
 Assess existing control measures
 Determine level of exposure
+
 Step 5: Apply the Hierarchy of Control
-•
+• Eliminate (remove substance if possible)
 0
-•
-Eliminate (remove substance if possible)
-Substitute (use less hazardous alternative)
+• Substitute (use less hazardous alternative)
 Engineering controls (e.g. ventilation, containment)
 Administrative controls (procedures, training)
 • PPE (last line of defence)
+
 Step 6: Define Control Measures
 • Specify required controls clearly
 0
 Include handling, storage, and disposal requirements
 • Define PPE requirements
+
 Step 7: Record the Assessment
-- Images: No images are present on this page.
+- Images: None
 
-- Context: This page discusses the key components of a COSHH assessment document, UK regulatory framework, and HSE alignment for controlling substances hazardous to health.
+Here is the OCR output for the given page of the document.
+
+- Context: This page lists some important elements of COSHH assessment, along with relevant regulations and frameworks.
 - Text: •
-
+•
+•
+•
+•
+•
+•
+•
+•
 Document findings clearly using Operational Assurance Group Templates –
 GB09-COSHH MANAGEMENT ACTION PLAN CHECKLIST
 GB10-COSHH ASSESSMENT FORM
-•
 Ensure information is accessible
 0
 Link to relevant SSOW or method statements
 Step 8: Communicate and Implement
-•
 Brief workforce
-•
 Ensure understanding of controls
 Provide training where required
 Step 9: Monitor and Review
 Review periodically
 Update following changes or incidents
-•
 Ensure controls remain effective
 8. Key Components of a COSHH Assessment Document
 0
 Substance details
-•
 Hazard information
-•
 Exposure routes
-•
 Persons at risk
-•
 Control measures
-•
 PPE requirements
-•
 Emergency procedures
-•
 First aid measures
 0
 Storage and disposal requirements
@@ -150,44 +179,46 @@ Review date
 9. UK Regulatory Framework and HSE Alignment
 Control of Substances Hazardous to Health Regulations 2002 (COSHH)
 Requires assessment and control of exposure to hazardous substances
-- Images: No images are present in this page.
+- Images: No images are present on this page.
 
-Here's the OCR output for page 6 of the PDF, formatted as requested.
+Here is the OCR of page 6 of the PDF.
 
-- Context: This page outlines Health and Safety regulations, common challenges, continuous improvement strategies, and what sets the Operational Assurance Group apart. It includes information about the Health and Safety at Work etc. Act 1974 (HSWA) and the Management of Health and Safety at Work Regulations 1999 (MHSWR).
+- Context: This page covers health and safety regulations, guidance, common challenges, continuous improvement, and what sets the Operational Assurance Group apart.
 - Text: Health and Safety at Work etc. Act 1974 (HSWA)
-•	Duty to protect employees and others
+• Duty to protect employees and others
 
 Management of Health and Safety at Work Regulations 1999 (MHSWR)
-0	Requires risk assessment and control measures
+• Requires risk assessment and control measures
 
 Supporting HSE Guidance
-•	HSG97: A Step by Step Guide to COSHH Assessment
-•	EH40: Workplace Exposure Limits
-•	INDG136: COSHH Brief Guide
+• HSG97: A Step by Step Guide to COSHH Assessment
+• EH40: Workplace Exposure Limits
+• INDG136: COSHH Brief Guide
 
 10. Common Challenges
-•	Over-reliance on generic assessments
-•	Failure to use SDS effectively
-•	Poor communication of controls
-•	Overuse of PPE instead of higher-level controls
-•	Lack of review and updates
+• Over-reliance on generic assessments
+• Failure to use SDS effectively
+• Poor communication of controls
+• Overuse of PPE instead of higher-level controls
+• Lack of review and updates
 
 11. Continuous Improvement
-•	Regular review of assessments
-•	Monitoring exposure levels
-•	Workforce feedback
-•	Incident and near-miss learning
+• Regular review of assessments
+• Monitoring exposure levels
+• Workforce feedback
+• Incident and near-miss learning
 
 12. What Sets Operational Assurance Group Apart
+
 Industry-Specific Expertise
 Experience across high-risk industrial sectors
+
 Practical Application
 Clear, usable documentation
-- Images: No images are detected in this page.
+- Images: None
 
 
-- Context: This page is a conclusion and contact information page for a COSHH assessment PDF. It summarizes the importance of COSHH assessments and provides contact details for Operational Assurance Group.
+- Context: This page contains the conclusion and contact information for Operational Assurance Group Specialist Consultancy regarding Safe Systems of Work & Industrial Risk Control.
 - Text: Audit-Ready Outputs
 Structured and compliant assessments
 Scalable Support
@@ -205,4 +236,4 @@ For further information or support, please get in touch.
 Website Contact: www.operationalassurancegroup.com
 Email Contact: info@operationalassurancegroup.com
 Telephone Contact: 07734 370849
-- Images: No images are present in this excerpt.
+- Images: There are no images on this page.
